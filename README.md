@@ -25,6 +25,6 @@ A **MySQL-based relational database** designed to manage a food delivery platfor
 
 ## ▶️ How to Run
 
-1. Open `Swiggy_DB.sql` in MySQL Workbench.
+1. Open `swiggy_database.sql` in MySQL Workbench.
 2. Execute the SQL script.
 3. Use the created database to perform queries and an
