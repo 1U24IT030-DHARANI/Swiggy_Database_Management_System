@@ -21,8 +21,6 @@ A **MySQL-based relational database** designed to manage a food delivery platfor
 * Constraints and Indexing
 * SQL JOIN and query operations
 
-```
-
 ## ▶️ How to Run
 
 1. Open `swiggy_database.sql` in MySQL Workbench.
